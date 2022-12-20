@@ -1,0 +1,16 @@
+08§00§funnysoundbell.wav§1st lesson
+08§45§funnysoundbell.wav§  # 10min break 1
+08§55§funnysoundbell.wav§2 lesson
+09§40§funnysoundbell.wav§  # 10min break 2
+09§50§funnysoundbell.wav§3 lesson
+10§35§funnysoundbell.wav§  # 10min break 3
+10§45§funnysoundbell.wav§4 lesson
+11§30§funnysoundbell.wav§  ## 30min long break 4 ##
+12§00§funnysoundbell.wav§5 lesson
+12§45§funnysoundbell.wav§  # 10min break 5
+12§55§funnysoundbell.wav§6 lesson
+13§40§funnysoundbell.wav§  # 10min break 6
+13§50§funnysoundbell.wav§7 lesson
+14§35§funnysoundbell.wav§  # 10min break 7
+14§45§funnysoundbell.wav§8 lesson
+15§30§funnysoundbell.wav§  # end of day
